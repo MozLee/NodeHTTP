@@ -5,4 +5,3 @@ app.listen(8080,function () {
 	// body...q
 	console.log('xiaobaosystem启动成功')
 });
-../XiaoBaoSystem/public/avatar
